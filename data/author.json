@@ -104,6 +104,17 @@
                 "S": "dummy"
             },
             "author": {
+                "S": "alde_137"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/1404641350008459264/N57CcK_k_normal.jpg"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
                 "S": "mach_sailor_"
             },
             "icon_url": {
@@ -511,6 +522,17 @@
                 "S": "dummy"
             },
             "author": {
+                "S": "IvkzI"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/1576015969209548801/BGiZf_A8_normal.png"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
                 "S": "ShiratoriAoi"
             },
             "icon_url": {
@@ -526,6 +548,17 @@
             },
             "icon_url": {
                 "S": "http://pbs.twimg.com/profile_images/1248103418368897024/hBzx1_Oq_normal.png"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
+                "S": "yamato_OWAcom"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/2301357867/pua6f81azdadrj3e41kc_normal.jpeg"
             }
         },
         {
@@ -602,7 +635,7 @@
                 "S": "elefolo2"
             },
             "icon_url": {
-                "S": "http://pbs.twimg.com/profile_images/1569935656515936264/TYUDail6_normal.png"
+                "S": "http://pbs.twimg.com/profile_images/1586414673800613888/9I8xJh28_normal.png"
             }
         },
         {
@@ -698,6 +731,17 @@
                 "S": "dummy"
             },
             "author": {
+                "S": "tookami"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/666992766807752705/5KkkjBXZ_normal.jpg"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
                 "S": "kasorin_r"
             },
             "icon_url": {
@@ -712,7 +756,7 @@
                 "S": "EXEL06077"
             },
             "icon_url": {
-                "S": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+                "S": "http://pbs.twimg.com/profile_images/1599324424875823105/lQ_pRVtK_normal.jpg"
             }
         },
         {
@@ -746,6 +790,28 @@
             },
             "icon_url": {
                 "S": "http://pbs.twimg.com/profile_images/875763578036289536/ZRZufvSX_normal.jpg"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
+                "S": "_shop_one"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/1584198268463984640/hukHMSIG_normal.jpg"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
+                "S": "Sswitch6"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/1358866771298582529/E74KrXjK_normal.jpg"
             }
         },
         {
@@ -834,6 +900,17 @@
             },
             "icon_url": {
                 "S": "http://pbs.twimg.com/profile_images/1518181562193350657/X3S5PJOU_normal.png"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
+                "S": "kiritani_ssbu"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/1576793290099527680/RDn4T7tD_normal.jpg"
             }
         },
         {
@@ -962,6 +1039,17 @@
                 "S": "dummy"
             },
             "author": {
+                "S": "octoparma"
+            },
+            "icon_url": {
+                "S": "http://pbs.twimg.com/profile_images/1530871459882496000/qljsuAqb_normal.jpg"
+            }
+        },
+        {
+            "pseudo_key": {
+                "S": "dummy"
+            },
+            "author": {
                 "S": "Rizena_twi"
             },
             "icon_url": {
@@ -1068,7 +1156,7 @@
             }
         }
     ],
-    "Count": 97,
-    "ScannedCount": 97,
+    "Count": 105,
+    "ScannedCount": 105,
     "ConsumedCapacity": null
 }

@@ -4,9 +4,9 @@ next_token = nil
 begin
   p 'runnning...'
   if next_token == nil
-    scan_out =JSON `aws dynamodb scan --table-name SlayTheReport-v3p`
+    scan_out =JSON `aws dynamodb scan --table-name SlayTheReport-v3p --max-items 100`
   else
-    scan_out =JSON `aws dynamodb scan --table-name SlayTheReport-v3p1 --starting-token #{next_token}`
+    scan_out =JSON `aws dynamodb scan --table-name SlayTheReport-v3p --max-items 100 --starting-token #{next_token}`
   end
   scan_out['Items'].each{|data|
     filename = data['runid']['S']
